@@ -1,1 +1,1 @@
-Algorithm questions for practice
+Algorithmic questions for practice
